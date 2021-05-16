@@ -7,6 +7,6 @@ This is demo repo
 * one
 * two
 
- ###Gist
+ ### Gist
  
-https://gist.github.com/abhiyash12345/2665c00a31d69d63242be1475dff8248
+[My code] https://gist.github.com/abhiyash12345/2665c00a31d69d63242be1475dff8248
